@@ -1,0 +1,20 @@
+{
+  "name": "ppt-page-review-open-source",
+  "interface": {
+    "displayName": "PPT 逐页审阅"
+  },
+  "plugins": [
+    {
+      "name": "ppt-page-review",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ppt-page-review"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "total": 0,
+    "defaultViewBox": "0 0 1280 720",
+    "formats": [
+      "ppt169"
+    ],
+    "filePattern": "{key}.svg",
+    "libraryPositioning": "Data-driven visualization templates whose source values determine geometry or visual encoding.",
+    "summaryGrammar": "Each chart summary is a selection rule, not a description. Format: 'Pick for <content shape + scale>. Skip if <reason → alternative>'.",
+    "updated": "2026-08-10"
+  },
+  "aliases": {},
+  "charts": {}
+}

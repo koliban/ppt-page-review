@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "total": 0,
+    "defaultViewBox": "0 0 1280 720",
+    "formats": [
+      "ppt169"
+    ],
+    "filePattern": "{key}.svg",
+    "libraryPositioning": "Core row-and-column grids whose body values are addressed by stable row and column headers.",
+    "summaryGrammar": "Each table summary is a selection rule, not a description. Format: 'Pick for <content shape + scale>. Skip if <reason → alternative>'.",
+    "updated": "2026-08-08"
+  },
+  "aliases": {},
+  "tables": {}
+}

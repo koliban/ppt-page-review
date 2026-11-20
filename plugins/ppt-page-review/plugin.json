@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ppt-page-review",
+  "version": "1.0.3",
+  "description": "逐页编写汇报提纲、生成效果图，并在确认后制作可编辑 PowerPoint。",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true
+    }
+  }
+}
